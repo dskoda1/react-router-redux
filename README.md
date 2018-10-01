@@ -1,10 +1,11 @@
 # We're moving!
 
-react-router-redux is going to live alongside react-router. In fact, it's already set up over there. [Go take a look!](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-redux)
-
 **This repo is for react-router-redux 4.x, which is only compatible with react-router 2.x and 3.x**
 
-The next version of react-router-redux will be 5.0.0 and will be compatible with react-router 4.x. It is currently being actively developed [over there](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-redux). Feel free to help out!
+**Please see [connected-react-router](https://github.com/supasate/connected-react-router) for your redux/router integration needs!**
+
+React-router-redux 5.0 was previously moved to the [react-router/packages](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-redux) repository, but it has since been deprecated in favor of [connected-react-router](https://github.com/supasate/connected-react-router)
+
 
 # react-router-redux
 
